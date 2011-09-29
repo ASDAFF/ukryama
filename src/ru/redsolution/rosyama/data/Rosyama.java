@@ -83,8 +83,8 @@ public class Rosyama extends Application implements UpdateListener,
 			XML_HOST = "http://xml-st1234.greensight.ru";
 			WEB_HOST = "http://st1234.greensight.ru";
 		} else {
-			XML_HOST = "http://xml.rosyama.ru";
-			WEB_HOST = "http://rosyama.ru";
+			XML_HOST = "http://xml.ukryama.com";
+			WEB_HOST = "http://ukryama.com";
 		}
 	}
 
